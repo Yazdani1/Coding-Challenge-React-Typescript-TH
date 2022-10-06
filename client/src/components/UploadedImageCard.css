@@ -1,0 +1,18 @@
+.image-card{
+
+    /* border: 1px solid black; */
+    align-items: center;
+    text-align: center;
+    padding: 2px;
+
+}
+
+.image-card p,h6{
+    padding: 10px;
+}
+
+.image-card img{
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+}
